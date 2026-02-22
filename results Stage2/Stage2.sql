@@ -39,6 +39,7 @@ INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (6, 3, 'Les Demoiselles d\'Avignon', 1907, 'Cubism', 'Painting');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (7, 4, 'Water Lilies series', 1926, 'Impressionism', 'Painting');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (8, 4, 'Impression, Sunrise', 1872, 'Impressionism', 'Painting');
+-- INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (9, 5, 'David', 1504, 'Renaissance', 'Sculpture');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (9, 5, 'David', 1504, 'Renaissance', 'Painting');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (10, 5, 'The Creation of Adam', 1512, 'Renaissance', 'Fresco');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (11, 6, 'The Two Fridas', 1939, 'Surrealism', 'Painting');
@@ -57,6 +58,7 @@ INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (24, 15, 'The Tilled Field', 1924, 'Surrealism', 'Painting');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (25, 16, 'The Three Crosses', 1653, 'Baroque', 'Etching');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (26, 17, 'The Sleep of Reason Produces Monsters', 1799, 'Romanticism', 'Etching');
+-- INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (27, 18, 'The Arch of Titus', 1756, 'Neoclassicism', 'Etching');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (27, 18, 'The Arch of Titus', 1756, 'Neoclassicism', 'Etchiing');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (28, 19, 'The Thinker', 1902, 'Modernism', 'Sculpture');
 INSERT INTO `artwork` (`artwork_id`, `artist_id`, `art_title`, `art_year`, `art_genre`, `art_type`) VALUES (29, 20, 'Apollo and Daphne', 1625, 'Baroque', 'Sculpture');
