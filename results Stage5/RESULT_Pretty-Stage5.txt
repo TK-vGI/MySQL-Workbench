@@ -1,0 +1,25 @@
++---------+-----------------+----------+-----------+--------------+
+|artist_id|first_name       |last_name |artist_rank|total_artworks|
++---------+-----------------+----------+-----------+--------------+
+|5        |Michelangelo     |Buonarroti|1          |2             |
+|1        |Leonardo         |da Vinci  |1          |2             |
+|6        |Frida            |Kahlo     |1          |2             |
+|4        |Claude           |Monet     |1          |2             |
+|9        |Georgia          |O'Keeffe  |1          |2             |
+|3        |Pablo            |Picasso   |1          |2             |
+|2        |Vincent          |van Gogh  |1          |2             |
+|7        |Johannes         |Vermeer   |1          |2             |
+|12       |Andy             |Warhol    |1          |2             |
+|20       |Gian Lorenzo     |Bernini   |10         |1             |
+|21       |Constantin       |Brancusi  |10         |1             |
+|10       |Salvador         |Dali      |10         |1             |
+|17       |Francisco        |Goya      |10         |1             |
+|13       |Gustav           |Klimt     |10         |1             |
+|8        |Henri            |Matisse   |10         |1             |
+|15       |Joan             |Miro      |10         |1             |
+|11       |Edvard           |Munch     |10         |1             |
+|18       |Giovanni Battista|Piranesi  |10         |1             |
+|19       |Auguste          |Rodin     |10         |1             |
+|16       |Rembrandt        |van Rijn  |10         |1             |
+|14       |Grant            |Wood      |10         |1             |
++---------+-----------------+----------+-----------+--------------+
