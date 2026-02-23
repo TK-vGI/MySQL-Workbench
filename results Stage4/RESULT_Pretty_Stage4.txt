@@ -1,0 +1,23 @@
++--------------------------+-----------+
+|artist_name               |birth_month|
++--------------------------+-----------+
+|Constantin Brancusi       |February   |
+|Grant Wood                |February   |
+|Francisco Goya            |March      |
+|Michelangelo Buonarroti   |March      |
+|Vincent van Gogh          |March      |
+|Joan Miro                 |April      |
+|Leonardo da Vinci         |April      |
+|Frida Kahlo               |July       |
+|Gustav Klimt              |July       |
+|Rembrandt van Rijn        |July       |
+|Giovanni Battista Piranesi|October    |
+|Johannes Vermeer          |October    |
+|Pablo Picasso             |October    |
+|Auguste Rodin             |November   |
+|Claude Monet              |November   |
+|Georgia O'Keeffe          |November   |
+|Edvard Munch              |December   |
+|Gian Lorenzo Bernini      |December   |
+|Henri Matisse             |December   |
++--------------------------+-----------+
